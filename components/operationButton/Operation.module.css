@@ -1,0 +1,29 @@
+.buttonOperation{
+    background-color: #4A5FD9;
+    color: white;
+    font-size: 30px;
+    padding: auto;
+    transition: all .5s;
+    border: none;
+    border-radius: .2rem;
+   
+}
+.buttonOperation:hover{
+    cursor: pointer;
+    background-color: #566df1;
+}
+.equal{
+    background-color: #4A5FD9;
+    color: white;
+    font-size: 30px;
+    padding: auto;
+    transition: all .5s;
+    border: none;
+    border-radius: .2rem;
+    grid-row: 8/10;
+    grid-column: 3/4;
+}
+.equal:hover{
+    cursor: pointer;
+    background-color: #566df1;
+}
